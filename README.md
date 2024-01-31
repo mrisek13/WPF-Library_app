@@ -15,4 +15,4 @@ Dobrodošli u repozitorij aplikacije "Biblioteka" - inovativne i elegantne aplik
 - **NuGet Package Manager**: Omogućuje jednostavno dodavanje i upravljanje bibliotekama poput Newtonsoft.Json.
 - **Newtonsoft.Json**: Biblioteka za učinkovito spremanje i učitavanje podataka iz datoteke.
 
-![library](https://github.com/mrisek13/WPF-Library_app/assets/108302992/f8ffc2fc-f2e6-463e-8cfe-7de0d7da8cc8)
+![library](https://github.com/mrisek13/WPF-Library_app/assets/108302992/c50954ad-dece-4f97-bdbc-f5c2f4869f26)
