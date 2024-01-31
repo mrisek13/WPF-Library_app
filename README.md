@@ -14,3 +14,5 @@ Dobrodošli u repozitorij aplikacije "Biblioteka" - inovativne i elegantne aplik
 - **WPF (Windows Presentation Foundation)**: Moderno grafičko sučelje temeljeno na XAML-u koje pruža korisnicima ugodno iskustvo korištenja.
 - **NuGet Package Manager**: Omogućuje jednostavno dodavanje i upravljanje bibliotekama poput Newtonsoft.Json.
 - **Newtonsoft.Json**: Biblioteka za učinkovito spremanje i učitavanje podataka iz datoteke.
+
+![library](https://github.com/mrisek13/WPF-Library_app/assets/108302992/f8ffc2fc-f2e6-463e-8cfe-7de0d7da8cc8)
